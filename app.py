@@ -13,3 +13,5 @@ if __name__ == "__main__":
 #git switch nova_feature
 
 #git pull
+
+#uprava na github
