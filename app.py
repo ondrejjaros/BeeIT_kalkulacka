@@ -11,3 +11,5 @@ if __name__ == "__main__":
 
 #git branch nova_feature
 #git switch nova_feature
+
+#git pull
